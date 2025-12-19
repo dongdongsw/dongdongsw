@@ -1,5 +1,7 @@
+<div align="center" class="header">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=436b95&text=DongHyeon's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="DongHyeon's GitHub">
+    </div>   
 <div align= "center"> 
-    <h1 align="center">Dong Hyeon's GitHub</h1>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
