@@ -1,5 +1,5 @@
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Dong Hyeon's GitHub </h2>  
+    <h1 align="center">Dong Hyeon's GitHub</h1>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
