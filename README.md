@@ -5,7 +5,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️ </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -26,13 +26,13 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2> <br> 
     <div align= "center"> <a href=mailto:fishman4535@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fishman4535@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=dongdongsw&bg_color=60,ffffff,00000000&title_color=ffffff&text_color=ffffff"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅 </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=dongdongsw&bg_color=60,ffffff,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongdongsw&layout=compact&bg_color=60,ffffff,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
